@@ -1,3 +1,3 @@
-for i in range(1,10,5):
+for i in range(10,0,-3):
     
     print("sagar laude")
